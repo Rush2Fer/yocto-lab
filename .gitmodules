@@ -1,3 +1,12 @@
 [submodule "layers/poky"]
 	path = layers/poky
 	url = https://git.yoctoproject.org/poky
+[submodule "layers/meta-arm"]
+	path = layers/meta-arm
+	url = https://git.yoctoproject.org/meta-arm
+[submodule "layers/meta-ti"]
+	path = layers/meta-ti
+	url = https://git.yoctoproject.org/meta-ti
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git

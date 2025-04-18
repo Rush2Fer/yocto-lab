@@ -7,7 +7,6 @@ pyshtables.py
 pstage/
 scripts/oe-git-proxy-socks
 sources/
-meta-*/
 buildtools/
 !meta-skeleton
 !meta-selftest
@@ -16,6 +15,8 @@ hob-image-*.bb
 *.orig
 *.rej
 *~
+downloads/
+sstate-cache/
 !meta-poky
 !meta-yocto
 !meta-yocto-bsp
